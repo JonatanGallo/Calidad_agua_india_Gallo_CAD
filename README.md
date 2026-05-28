@@ -175,10 +175,8 @@ Keras y Regresión Lineal prácticamente se superponen con la diagonal perfecta.
 ## Estructura del Repositorio
 
 ```
-├── Clean_ML_Water_Gallo.ipynb       # Notebook principal con todo el análisis
-├── Clean_ML_Water.ipynb             # Notebook base del taller (referencia)
-├── Presentacion_Calidad_Agua.pdf    # Presentación en formato PDF
-├── Presentacion_Calidad_Agua.pptx   # Presentación editable
+├── Clean_ML_Water_Gallo.ipynb       # Notebook principal con todo el análisis)
+├── Presentacion_Calidad_Agua_Gallo.pdf    # Presentación en formato PDF
 ├── waterquality.csv                 # Dataset (534 registros)
 ├── Indian_States.shp                # Shapefile de estados de la India
 ├── Indian_States.dbf
