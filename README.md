@@ -7,8 +7,6 @@
 **Curso:** Computación de Alto Desempeño  
 **Fecha:** 28 de mayo de 2026
 
-![Portada](img/01_portada.jpg)
-
 ---
 
 ## Video de Presentación
